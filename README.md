@@ -12,8 +12,7 @@ La propuesta consiste en crear una **página web interactiva y con estética ari
 - Microanimaciones y navegación fluida gracias a Framer.  
 - **Contenido 100% creado con Inteligencia Artificial**: desde las imágenes hiperrealistas hasta la música (letra y melodía).  
 
-👉 Podés ver el proyecto publicado en Framer aquí:  
-https://tu-proyecto.framer.website](https://baron-von-fluffington.framer.website/
+👉 Podés ver el proyecto publicado en Framer aquí:  https://baron-von-fluffington.framer.website/
 
 ---
 
